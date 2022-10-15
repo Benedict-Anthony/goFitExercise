@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "title":"simple fitness",
+        "des":"goFit provides with you with simple fitness tutorials. This is special for those who love to keep their body simple looking and good fit",
+        "image":"./simple.jpg"
+    },
+
+    
+    {
+        "id":2,
+        "title":"health tips",
+        "des":"goFit provides with health tips. Ranging from diet to all kinds of simple and gentle dialy practices to keep your body strong, fit and good good figure looking",
+        "image":"./health.jpg"
+    },
+
+    
+    {
+        "id":3,
+        "title":"body building",
+        "des":"goFit provides with you with lot's of tutorials to get your body a strong and amazing body that can give a good sense of good leaving. This ranges from muscles building to all body parts.",
+        "image":"./body.jpg"
+    },
+
+    
+    {
+        "id":4,
+        "title":"no age limits",
+        "des":"goFit provides with you exercises that suitable for all age. This is to make sure that everyone get fit and healthy.",
+        "image":"./age.jpg"
+    }
+]
